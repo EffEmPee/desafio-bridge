@@ -184,7 +184,5 @@ GROUP BY p.nome
 HAVING COUNT(*) > 1
 ORDER BY replicacoes DESC
 
-select * from Pedidos
-
 
 
